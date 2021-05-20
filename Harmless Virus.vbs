@@ -1,0 +1,7 @@
+X = msgbox ("Error loading your Windows",0+16,"Error")
+X = msgbox ("Please Restart your Computer",1+16,"Error")
+X = msgbox ("Uploading your data to server...",2+16,"Error")
+X = msgbox ("Data Uploaded",3+16,"Error")
+X = msgbox ("Your Computer has been hacked",4+16,"Hacked")
+X = msgbox ("r9r94fhfbf84hackedff8t4tfkfroerf",5+16,"Error")
+X = msgbox ("This is a Prank. Your Computer is Safe :)",6+16,"Error")
